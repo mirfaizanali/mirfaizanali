@@ -13,7 +13,7 @@
 > ☕ Java backend dev by day · Angular frontend when needed · Always building something
 ```
 
-**Currently:** Programmer Analyst @ Cognizant · AIG Insurance Platform Modernization  
+**Currently:** Programmer Analyst @ Cognizant 
 **Studying:** Java SE 17 Certification  
 **Location:** Hyderabad, India  
 **Status:** 👀 Open to opportunities
