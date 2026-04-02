@@ -16,7 +16,7 @@
 **Currently:** Programmer Analyst @ Cognizant 
 **Studying:** Java SE 17 Certification  
 **Location:** Hyderabad, India  
-**Status:** 👀 Open to opportunities
+
 
 ---
 
